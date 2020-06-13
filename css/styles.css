@@ -1,0 +1,35 @@
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+}
+
+h2 {
+  font-weight: bolder;
+}
+
+.backgroundStyle {
+  text-align: center;
+  background-color: gray;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 35px;
+}
+
+.picture {
+background-color: black;
+width: 90%;
+padding: 10px;
+margin: 0 auto;
+border-style: double;
+border-width: 2px;
+border-color: blueviolet;
+
+}
+
+.picture img {
+  width: 300px;
+}
+
+.picture p {
+  color: blueviolet;
+  font-size: 24px;
+}
