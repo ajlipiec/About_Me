@@ -7,11 +7,13 @@ h2 {
   font-weight: bolder;
 }
 
-
-
 li {
   text-align: left;
   margin: 3% 20% 3% 20%;
+}
+
+h3 {
+  color: aquamarine;
 }
 
 .backgroundStyle {
@@ -19,6 +21,10 @@ li {
   background-color: gray;
   font-family: 'Courier New', Courier, monospace;
   padding: 35px;
+}
+
+.backgroundStyle p {
+  font-size: 16px;
 }
 
 .picture {
@@ -42,7 +48,7 @@ border-color: blueviolet;
 }
 
 .colorful {
-  color: darkslategrey;
+  color: rgb(241, 26, 206);
   
 }
 

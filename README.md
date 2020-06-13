@@ -9,6 +9,8 @@
 
 _This is a profile page about me, Andy Lipiec. Completed for Epicodus and out first code review_
 
+_Can be viewed in gh-pages: http://ajlipiec.github.io/About_Me/
+
 
 ## Known Bugs
 
