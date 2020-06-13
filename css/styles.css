@@ -7,9 +7,11 @@ h2 {
   font-weight: bolder;
 }
 
-ol {
 
+
+li {
   text-align: left;
+  margin: 3% 20% 3% 20%;
 }
 
 .backgroundStyle {
