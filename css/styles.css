@@ -7,6 +7,11 @@ h2 {
   font-weight: bolder;
 }
 
+ol {
+
+  text-align: left;
+}
+
 .backgroundStyle {
   text-align: center;
   background-color: gray;
@@ -33,3 +38,15 @@ border-color: blueviolet;
   color: blueviolet;
   font-size: 24px;
 }
+
+.colorful {
+  color: darkslategrey;
+  
+}
+
+.matrix {
+  color: green;
+  background-color: black;
+  padding: 20px;
+}
+
